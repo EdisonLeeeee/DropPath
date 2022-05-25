@@ -1,5 +1,7 @@
 # DropPath
-Implementation of DropPath: A Structured Dropout for \\Graph Neural Networks in PyTorch.
+Implementation of DropPath: A Structured Dropout for Graph Neural Networks in PyTorch.
+
+<p align="center"> <img src="demo.png" /> <p align="center"><em>Fig. 1. Dropout techniques adopted on image and graph data.</em></p>
 
 # Usage
 Currently we have made a simple implementation of DropPath based on PyTorch Geometric.
